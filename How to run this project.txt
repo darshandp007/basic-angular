@@ -1,0 +1,15 @@
+
+Note:-
+------
+Must be install angular, nodejs, mongodb.
+
+Angular to run front side on port number 4200.
+
+Nodemon server is used to run the Backend Server.
+
+Mongo DB server must be on.
+
+
+
+
+
